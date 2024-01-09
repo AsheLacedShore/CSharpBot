@@ -25,3 +25,10 @@ C:\Users\Chelsea\source\repos\csharp_practice\DiscordBotCSharp\obj\Debug\net6.0\
 C:\Users\Chelsea\source\repos\csharp_practice\DiscordBotCSharp\obj\Debug\net6.0\DiscordBotCSharp.pdb
 C:\Users\Chelsea\source\repos\csharp_practice\DiscordBotCSharp\obj\Debug\net6.0\DiscordBotCSharp.genruntimeconfig.cache
 C:\Users\Chelsea\source\repos\csharp_practice\DiscordBotCSharp\obj\Debug\net6.0\ref\DiscordBotCSharp.dll
+C:\Users\Chelsea\source\repos\csharp_practice\DiscordBotCSharp\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Chelsea\source\repos\csharp_practice\DiscordBotCSharp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Chelsea\source\repos\csharp_practice\DiscordBotCSharp\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Chelsea\source\repos\csharp_practice\DiscordBotCSharp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Chelsea\source\repos\csharp_practice\DiscordBotCSharp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Chelsea\source\repos\csharp_practice\DiscordBotCSharp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Chelsea\source\repos\csharp_practice\DiscordBotCSharp\bin\Debug\net6.0\BingMapsRESTToolkit.dll
